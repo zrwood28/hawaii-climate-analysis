@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# hawaii-climate-analysis
 Climate analysis of Honolulu by exploring a weather database.
 
 ## Summary
